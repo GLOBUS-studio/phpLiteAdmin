@@ -13,22 +13,6 @@ that is dropped into a directory on a server and then visited in a browser.
 There is no installation required. The available operations, feature set,
 interface, and user experience is comparable to that of phpMyAdmin.
 
-## News
-
-**05.09.2019: phpLiteAdmin 1.9.8.2 released [Download now](https://www.phpliteadmin.org/download/)**
-
-**03.09.2019: phpLiteAdmin 1.9.8.1 released [Download now](https://www.phpliteadmin.org/download/)**
-
-**30.08.2019: phpLiteAdmin 1.9.8 released [Download now](https://www.phpliteadmin.org/download/)**
-
-**17.08.2017: [Security alert: phpLiteAdmin 1.9.8-dev](https://www.phpliteadmin.org/2017/08/17/security-alert-1-9-8-dev/) (stable versions not affected)**
-
-**14.12.2016: Just released phpLiteAdmin 1.9.7.1 as 1.9.7 was built incorrectly [Download now](https://www.phpliteadmin.org/download/)**
-
-**13.12.2016: Just released phpLiteAdmin 1.9.7! [Download now](https://www.phpliteadmin.org/download/)**
-
-**05.07.2015: Just released phpLiteAdmin 1.9.6! [Download now](https://www.phpliteadmin.org/download/)**
-
 ## Features
 
 -   Lightweight - consists of a single 200KB source file for portability
@@ -66,18 +50,6 @@ https://demo.phpliteadmin.org/
     
 PHP version 5.3.0 and greater usually comes with the SQLite3 extension installed
 and enabled by default so no custom action is necessary.
-
-## Download
-
-The files in the source repositories are meant for development, not for use in production.
-
-You can find the latest downloads here:
-https://www.phpliteadmin.org/download/
-
-## Installation
-
-See https://bitbucket.org/phpliteadmin/public/wiki/Installation
-
 
 ## Configuration
 
@@ -122,17 +94,6 @@ See https://bitbucket.org/phpliteadmin/public/wiki/Configuration for details.
 7.   Open a web browser and navigate to the uploaded `phpliteadmin.php` file. You
      will be prompted to enter a password. Use the same password you set in step 4.
      
-## Code Repository and pull requests
-
-The code repository is available both on bitbucket and github:
-
-Github: https://github.com/phpLiteAdmin/pla
-
-Bitbucket: https://bitbucket.org/phpliteadmin/public/src
-
-You are welcome to fork the project and send us pull requests on any of these
-platforms.
-
 ## Installing a theme
 	
 1.   Download the themes package from the [project Downloads page](https://www.phpliteadmin.org/download/).
